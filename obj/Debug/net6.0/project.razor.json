@@ -16298,8 +16298,18 @@
   "RootNamespace": "ASPCoreDemo",
   "Documents": [
     {
+      "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,6 +16338,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16355,11 @@
     {
       "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\HelloWorld\\Index.cshtml",
       "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Code\\VSCode Repos\\ASPCoreDemo\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {

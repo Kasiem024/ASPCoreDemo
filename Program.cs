@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<MvcMovieContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("MvcMovieContext")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -12,6 +17,21 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+// SQLite for development
+// SQL Server for prodcution
+// ASPNETCORE_ENVIRONMENT in launchSettings.json
+
+// if (builder.Environment.IsDevelopment())
+// {
+//     builder.Services.AddDbContext<MvcMovieContext>(options =>
+//         options.UseSqlite(builder.Configuration.GetConnectionString("MvcMovieContext")));
+// }
+// else
+// {
+//     builder.Services.AddDbContext<MvcMovieContext>(options =>
+//         options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionMvcMovieContext")));
+// }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

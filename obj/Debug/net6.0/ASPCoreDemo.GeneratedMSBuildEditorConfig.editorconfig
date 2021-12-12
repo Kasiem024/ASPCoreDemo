@@ -8,45 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASPCoreDemo
 build_property.RootNamespace = ASPCoreDemo
-build_property.ProjectDir = D:\Code\VSCode Repos\ASPCoreDemo\
+build_property.ProjectDir = d:\Code\VSCode Repos\ASPCoreDemo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Code\VSCode Repos\ASPCoreDemo
+build_property.MSBuildProjectDirectory = d:\Code\VSCode Repos\ASPCoreDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/HelloWorld/Index.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/HelloWorld/Welcome.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/Home/Index.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/Home/Privacy.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/Shared/Error.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/_ViewImports.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/_ViewStart.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/VSCode Repos/ASPCoreDemo/Views/Shared/_Layout.cshtml]
+[d:/Code/VSCode Repos/ASPCoreDemo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mvap8cugsz
